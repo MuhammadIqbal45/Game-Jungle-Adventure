@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 5ea125717cc942e40b17f7d42c00e7b5
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -3767504595162007521
+    second: Lari
+  - first:
+      74: -4242424830725480161
+    second: Armature|Diam
+  - first:
+      74: 1147865739026873834
+    second: Armature|Jalan.001
+  - first:
+      74: 5358206562311000208
+    second: Armature|Lari.001
+  - first:
+      74: 6751406619262878086
+    second: Armature|Lompat
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperArm' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Diam
+      takeName: Armature|Diam
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Jalan.001
+      takeName: Armature|Jalan.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Lari.001
+      takeName: Armature|Lari.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Lompat
+      takeName: Armature|Lompat
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Animation Character Gajah(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.0740669, y: -0.000000029802322, z: -0.072795436}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.001
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.0677369, y: 0.4589277, z: -0.072795376}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 19.007406, y: 19.007406, z: 19.007406}
+    - name: Cylinder
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.1981766, y: 0.19174486, z: -0.072795436}
+      rotation: {x: -0.70709974, y: 0.0031616972, z: -0.003161696, w: 0.70709974}
+      scale: {x: 12.212284, y: 12.212285, z: 12.212284}
+    - name: Cylinder.001
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.4271274, y: 0.46648616, z: -0.07279544}
+      rotation: {x: -0.65925753, y: 0.2556943, z: -0.25569418, w: 0.6592575}
+      scale: {x: 9.060592, y: 9.060592, z: 9.060592}
+    - name: Cube.002
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.0740669, y: 0.5005126, z: 0.6519856}
+      rotation: {x: -0.7428357, y: 8.144814e-18, z: -8.144817e-18, w: 0.66947377}
+      scale: {x: 21.016443, y: 21.016441, z: 21.016441}
+    - name: BezierCurve
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.0740669, y: 0.28748947, z: -0.43778586}
+      rotation: {x: 0.04714724, y: 0.70553327, z: 0.04714724, w: 0.7055332}
+      scale: {x: 20.34511, y: 20.34511, z: 20.34511}
+    - name: Cube.003
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.0740669, y: 0.344328, z: -0.7023127}
+      rotation: {x: 0.8768876, y: -4.3986156e-17, z: 4.3986163e-17, w: -0.48069546}
+      scale: {x: 11.568575, y: 11.568577, z: 11.568577}
+    - name: Sphere
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.1610734, y: 0.098046266, z: 0.039599445}
+      rotation: {x: -0.82204074, y: 2.8045572e-17, z: -2.804557e-17, w: 0.5694287}
+      scale: {x: 2.8503265, y: 2.8503256, z: 3.6212966}
+    - name: Sphere.001
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -2.4622118, y: 0.39111128, z: 0.0049107894}
+      rotation: {x: -0.75940186, y: 0.3147377, z: -0.21801916, w: 0.52603865}
+      scale: {x: 2.8503263, y: 2.8503256, z: 3.6212966}
+    - name: Armature
+      parentName: Animation Character Gajah(Clone)
+      position: {x: -0.14434612, y: 0.2111867, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 37.58564, y: 37.58564, z: 37.58564}
+    - name: Badan
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -0.0000000018304115, z: -0.000000052042832, w: 0.7071068}
+      scale: {x: 0.99999934, y: 0.99999964, z: 0.99999964}
+    - name: Kepala
+      parentName: Badan
+      position: {x: -0, y: 0.009955826, z: 0}
+      rotation: {x: 0.8351734, y: -0.04284883, z: 0.048052147, w: 0.5462054}
+      scale: {x: 1.0000011, y: 1.0000004, z: 0.9999992}
+    - name: Belalai 1
+      parentName: Kepala
+      position: {x: -0.0002865476, y: 0.00808362, z: 0.012557089}
+      rotation: {x: 0.7110627, y: -0.026325077, z: 0.0052667684, w: 0.702616}
+      scale: {x: 1.0000004, y: 1.0000024, z: 1.000002}
+    - name: Belalai 2
+      parentName: Belalai 1
+      position: {x: -1.3754686e-11, y: 0.0055029085, z: 6.7166805e-10}
+      rotation: {x: -0.35541034, y: -0.042405725, z: -0.021312801, w: 0.9335047}
+      scale: {x: 1.0000008, y: 1.0000032, z: 1.0000051}
+    - name: Belalai 3
+      parentName: Belalai 2
+      position: {x: -5.890186e-12, y: 0.0038629181, z: 6.713297e-10}
+      rotation: {x: -0.09683174, y: 7.6745355e-10, z: 0.000000032846938, w: 0.99530077}
+      scale: {x: 0.99999994, y: 1.0000057, z: 1.000005}
+    - name: Belalai 3_end
+      parentName: Belalai 3
+      position: {x: -0, y: 0.0045537273, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tangan Kiri 1
+      parentName: Badan
+      position: {x: -0.0073697516, y: 0.006138713, z: -0.0018316264}
+      rotation: {x: 0.00000008940697, y: 0.00000021363111, z: -0.08542916, w: 0.9963443}
+      scale: {x: 1.0000005, y: 0.999999, z: 0.9999992}
+    - name: Tangan Kiri 2
+      parentName: Tangan Kiri 1
+      position: {x: -2.633731e-10, y: 0.0028499726, z: 1.197576e-10}
+      rotation: {x: -0.000000097071215, y: -0.000000049583967, z: 0.7572087, w: 0.6531731}
+      scale: {x: 1.0000025, y: 1.0000013, z: 1.000001}
+    - name: Tangan Kiri 3
+      parentName: Tangan Kiri 2
+      position: {x: 4.1243536e-10, y: 0.0021650938, z: 2.998881e-11}
+      rotation: {x: -0.00000015247936, y: 0.00000012575902, z: 0.34815928, w: 0.93743545}
+      scale: {x: 1.0000014, y: 1.000004, z: 1.0000002}
+    - name: Tangan Kiri 4
+      parentName: Tangan Kiri 3
+      position: {x: -9.549058e-10, y: 0.0015431277, z: 1.0403381e-10}
+      rotation: {x: -0.000000071637544, y: 0.0000001928624, z: 0.15539297, w: 0.9878528}
+      scale: {x: 1.0000046, y: 1.0000033, z: 0.9999994}
+    - name: Tangan Kiri 4_end
+      parentName: Tangan Kiri 4
+      position: {x: -0, y: 0.0014703727, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kaki Kiri 1
+      parentName: Badan
+      position: {x: -0.004324302, y: 0.00057597517, z: -0.001952417}
+      rotation: {x: 0.9486833, y: -0.00000025454761, z: -0.3162279, w: -0.00000022719072}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000011}
+    - name: Kaki Kiri 2
+      parentName: Kaki Kiri 1
+      position: {x: 3.6478376e-11, y: 0.0025325625, z: 2.8711184e-11}
+      rotation: {x: -0.30508465, y: 0.0000000896874, z: 0.22881302, w: 0.92442846}
+      scale: {x: 1.0000006, y: 1.0000032, z: 1.0000024}
+    - name: Kaki Kiri 2_end
+      parentName: Kaki Kiri 2
+      position: {x: -0, y: 0.0021405574, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Kaki Kanan 1
+      parentName: Badan
+      position: {x: 0.00403177, y: 0.00057597517, z: -0.001952417}
+      rotation: {x: 0.9486833, y: -0.00000025454761, z: -0.3162279, w: -0.00000022719072}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000011}
+    - name: Kaki Kanan 2
+      parentName: Kaki Kanan 1
+      position: {x: 3.6478376e-11, y: 0.0025325625, z: 2.8711184e-11}
+      rotation: {x: -0.30508465, y: 0.0000000896874, z: 0.22881302, w: 0.92442846}
+      scale: {x: 1.0000006, y: 1.0000032, z: 1.0000024}
+    - name: Kaki Kanan 2_end
+      parentName: Kaki Kanan 2
+      position: {x: -0, y: 0.0021405574, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tangan Kanan 1
+      parentName: Badan
+      position: {x: 0.007680922, y: 0.006138713, z: -0.0018316265}
+      rotation: {x: 0.0000032391395, y: -0.00000026818154, z: 0.9995377, w: 0.03040368}
+      scale: {x: 1.0000007, y: 0.9999992, z: 0.9999992}
+    - name: Tangan Kanan 2
+      parentName: Tangan Kanan 1
+      position: {x: 3.4725067e-10, y: 0.0028499728, z: 2.0339179e-10}
+      rotation: {x: -0.056669943, y: 0.12745707, z: 0.06902431, w: 0.98781526}
+      scale: {x: 1.0000025, y: 1.000001, z: 1.000001}
+    - name: Tangan Kanan 3
+      parentName: Tangan Kanan 2
+      position: {x: -5.1852167e-10, y: 0.002165093, z: -1.393019e-11}
+      rotation: {x: -0.00000074632914, y: 0.000001479876, z: 0.34815925, w: -0.9374354}
+      scale: {x: 1.0000017, y: 1.000004, z: 1.0000002}
+    - name: Tangan Kanan 4
+      parentName: Tangan Kanan 3
+      position: {x: 3.3054942e-10, y: 0.0015431275, z: 6.254968e-11}
+      rotation: {x: -0.032355, y: -0.47668704, z: -0.5248868, w: -0.7044263}
+      scale: {x: 1.0000013, y: 0.9999998, z: 0.9999994}
+    - name: Tangan Kanan 4_end
+      parentName: Tangan Kanan 4
+      position: {x: -0, y: 0.0014703721, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ekor 1
+      parentName: Badan
+      position: {x: -0.00011822134, y: 0.003601046, z: -0.009305479}
+      rotation: {x: -0.22962266, y: -0.000000084947835, z: 0.00000005974284, w: 0.9732798}
+      scale: {x: 1.0000007, y: 0.9999999, z: 0.9999999}
+    - name: Ekor 2
+      parentName: Ekor 1
+      position: {x: -1.1979537e-11, y: 0.0018084556, z: -2.9777672e-10}
+      rotation: {x: -0.010549606, y: 0.0000000061678596, z: -0.000000004562207, w: 0.9999444}
+      scale: {x: 0.99999964, y: 1.0000019, z: 1.0000021}
+    - name: Ekor 3
+      parentName: Ekor 2
+      position: {x: -8.573266e-12, y: 0.0014921025, z: -2.512106e-10}
+      rotation: {x: -0.005722876, y: 0.00000004879568, z: -0.000000003237585, w: 0.9999836}
+      scale: {x: 1.0000004, y: 1.0000017, z: 1.0000006}
+    - name: Ekor 4
+      parentName: Ekor 3
+      position: {x: -2.973124e-12, y: 0.0013124918, z: 1.7719777e-10}
+      rotation: {x: 0.039724562, y: 0.000000021272706, z: 0.0000000055590013, w: 0.99921066}
+      scale: {x: 1, y: 1.0000013, z: 1.000002}
+    - name: Ekor 5
+      parentName: Ekor 4
+      position: {x: 1.116014e-12, y: 0.0012029393, z: 6.242326e-10}
+      rotation: {x: -0.12997238, y: -0.00000004183592, z: 0.000000015731096, w: 0.99151766}
+      scale: {x: 1.0000002, y: 1.0000017, z: 1.0000012}
+    - name: Ekor 6
+      parentName: Ekor 5
+      position: {x: -5.7757176e-12, y: 0.0009824316, z: -5.6786026e-10}
+      rotation: {x: -0.058970407, y: 0.000000010475048, z: 0.0000000077781515, w: 0.9982598}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1}
+    - name: Ekor 7
+      parentName: Ekor 6
+      position: {x: -6.049845e-12, y: 0.00094791857, z: 3.262094e-10}
+      rotation: {x: 0.1271883, y: 0.00000005448149, z: -0.000000018078982, w: -0.99187857}
+      scale: {x: 1.0000001, y: 1.0000012, z: 1.0000015}
+    - name: Ekor 7_end
+      parentName: Ekor 7
+      position: {x: -0, y: 0.0041228468, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
